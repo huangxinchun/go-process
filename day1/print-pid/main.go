@@ -6,5 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println(os.Getegid())
+	fmt.Println(os.Getpid())
+	fmt.Println(os.Getppid())
 }
