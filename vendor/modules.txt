@@ -1,0 +1,3 @@
+# github.com/huangxinchun/go-demo v0.0.0-20200506090431-a596009e077b
+## explicit
+github.com/huangxinchun/go-demo/testpackage
